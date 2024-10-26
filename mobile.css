@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+h2 {
+    text-align: center;
+}
+
+.container_ul {
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.item_li>a {
+    margin-left: 0;
+    padding: 0;
+    padding: 10px 30vw;
+    align-items: center;
+    margin-bottom: 30px;
+}

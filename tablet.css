@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.menu {
+    display: block;
+}
+
+.container_ul {
+    margin-left: 25px;
+}
